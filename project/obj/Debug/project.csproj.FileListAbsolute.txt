@@ -1,0 +1,8 @@
+C:\Users\DELL\Desktop\IT C#\project\project\bin\Debug\project.exe.config
+C:\Users\DELL\Desktop\IT C#\project\project\bin\Debug\project.exe
+C:\Users\DELL\Desktop\IT C#\project\project\bin\Debug\project.pdb
+C:\Users\DELL\Desktop\IT C#\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\IT C#\project\project\obj\Debug\project.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\IT C#\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\IT C#\project\project\obj\Debug\project.exe
+C:\Users\DELL\Desktop\IT C#\project\project\obj\Debug\project.pdb
